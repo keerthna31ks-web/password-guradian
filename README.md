@@ -36,11 +36,11 @@ streamlit run app.py
 
 🔍 Password Analyzer
 
-![Password Analyzer](images/password analyzer.png)
+![Password Analyzer](images/Password analyser.png)
 
 🔑 Password Generator
 
-![Password Generator](images/password generator.png)
+![Password Generator](images/Password generator.png)
 
 👩‍💻 Author
 Keerthana
