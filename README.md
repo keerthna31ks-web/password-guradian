@@ -1,6 +1,10 @@
 🔐 Password Guardian
 
-A Streamlit web application that analyzes password strength and generates secure passwords.
+Password Guardian is a Python-based password security application built using **Streamlit**. It helps users analyze the strength of their passwords and generate secure, random passwords based on their requirements.
+
+The application evaluates password security by checking factors such as length, uppercase letters, lowercase letters, numbers, and special characters. It also provides a customizable password generator that allows users to create strong passwords by selecting desired length and character combinations.
+
+This project aims to promote better password security practices and help users create stronger passwords to protect their digital accounts.
 
 🚀 Features
 
