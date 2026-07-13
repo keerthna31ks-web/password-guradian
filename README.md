@@ -30,8 +30,17 @@ streamlit run app.py
 ```
 
 📷 Screenshots
+🏠 Home Page
 
-Screenshots will be added after deployment.
+![Home Page](images/home.png)
+
+🔍 Password Analyzer
+
+![Password Analyzer](images/password analyzer.png)
+
+🔑 Password Generator
+
+![Password Generator](images/password generator.png)
 
 👩‍💻 Author
 Keerthana
