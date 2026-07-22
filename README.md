@@ -34,17 +34,19 @@ streamlit run app.py
 ```
 
 📷 Screenshots
+
 🏠 Home Page
 
-![Home Page](images/home.png)
+![Home Page](images/Home.png)
 
 🔍 Password Analyzer
 
-![Password Analyzer](images/analyser.png)
+![Password Analyzer](images/Password%20analyser.png)
+
 
 🔑 Password Generator
 
-![Password Generator](images/generator.png)
+![Password Generator](images/Password%20generator.png)
 
 👩‍💻 Author
 Keerthana
